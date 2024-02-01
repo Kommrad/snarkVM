@@ -33,7 +33,7 @@
 
 For more information, visit [Welcome to Aleo](https://github.com/AleoHQ/welcome) to get started.
 
-## 2. Build Guide
+## 2. Build Guide.
 
 ### 2.1 Install Rust
 
